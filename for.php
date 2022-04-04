@@ -15,13 +15,6 @@
 		print_r($array);
 	}
 
-
-
-
-
-
-
-
 	 ?>
 </body>
 </html>
